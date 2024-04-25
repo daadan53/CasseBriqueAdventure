@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "t\u00E2che-level_2",
+      "appliesTo": "Levels/level_2.bbx",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "t\u00E2che-level_2",
+      "appliesTo": "Levels/level_2.bbx",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "t\u00E2che-level_1",
+      "appliesTo": "Levels/level_1.bbx",
+      "type": "launch"
+    }
+  ]
+}

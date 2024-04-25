@@ -1,0 +1,128 @@
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\balle.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\bonus_colle.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\bonus_feu.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\bonus_grand.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\bonus_multiball.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\bonus_petit.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\bonus_vie.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\brique_1.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\brique_2.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\brique_3.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\brique_4.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\brique_5.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\brique_6.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\brique_7.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\brique_8.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\brique_9.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\brique_blanc.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\brique_modele.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\fond_1.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\raquette.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\CasseBrique.exe
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\CasseBrique.deps.json
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\CasseBrique.runtimeconfig.json
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\CasseBrique.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\CasseBrique.pdb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique\obj\Debug\net6.0-windows\CasseBrique.csproj.AssemblyReference.cache
+C:\Users\danma\Documents\GameCodeur\CasseBrique\obj\Debug\net6.0-windows\CasseBrique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danma\Documents\GameCodeur\CasseBrique\obj\Debug\net6.0-windows\CasseBrique.AssemblyInfoInputs.cache
+C:\Users\danma\Documents\GameCodeur\CasseBrique\obj\Debug\net6.0-windows\CasseBrique.AssemblyInfo.cs
+C:\Users\danma\Documents\GameCodeur\CasseBrique\obj\Debug\net6.0-windows\CasseBrique.csproj.CoreCompileInputs.cache
+C:\Users\danma\Documents\GameCodeur\CasseBrique\obj\Debug\net6.0-windows\CasseBrique.csproj.CopyComplete
+C:\Users\danma\Documents\GameCodeur\CasseBrique\obj\Debug\net6.0-windows\CasseBrique.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique\obj\Debug\net6.0-windows\refint\CasseBrique.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique\obj\Debug\net6.0-windows\CasseBrique.pdb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\obj\Debug\net6.0-windows\CasseBrique.genruntimeconfig.cache
+C:\Users\danma\Documents\GameCodeur\CasseBrique\obj\Debug\net6.0-windows\ref\CasseBrique.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\PixelFont.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Levels\level_1.bbx
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\brique_0.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\Idle_1.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\survivor-idle_handgun_1.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\Basic_Door_Pixel.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique\bin\Debug\net6.0-windows\Content\Player_Casse_Brique.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\brique_0.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\balle.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\Basic_Door_Pixel.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\bonus_colle.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\bonus_feu.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\bonus_grand.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\bonus_multiball.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\bonus_petit.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\bonus_vie.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\brique_1.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\brique_2.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\brique_3.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\brique_4.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\brique_5.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\brique_6.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\brique_7.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\brique_8.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\brique_9.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\brique_blanc.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\brique_modele.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\fond_1.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\Idle_1.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\PixelFont.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\Player_Casse_Brique.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\raquette.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Content\survivor-idle_handgun_1.xnb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\CasseBrique.exe
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Levels\level_1.bbx
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\CasseBrique.deps.json
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\CasseBrique.runtimeconfig.json
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\CasseBrique.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\CasseBrique.pdb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\obj\Debug\net6.0-windows\CasseBrique.csproj.AssemblyReference.cache
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\obj\Debug\net6.0-windows\CasseBrique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\obj\Debug\net6.0-windows\CasseBrique.AssemblyInfoInputs.cache
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\obj\Debug\net6.0-windows\CasseBrique.AssemblyInfo.cs
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\obj\Debug\net6.0-windows\CasseBrique.csproj.CoreCompileInputs.cache
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\obj\Debug\net6.0-windows\CasseBrique.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\obj\Debug\net6.0-windows\refint\CasseBrique.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\obj\Debug\net6.0-windows\CasseBrique.pdb
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\obj\Debug\net6.0-windows\CasseBrique.genruntimeconfig.cache
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\obj\Debug\net6.0-windows\ref\CasseBrique.dll
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\obj\Debug\net6.0-windows\CasseBri.28A43D5B.Up2Date
