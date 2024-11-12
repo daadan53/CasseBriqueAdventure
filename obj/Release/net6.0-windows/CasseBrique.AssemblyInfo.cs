@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CasseBrique")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8640d517894ce1af294da81cd2144a0ecf835456")]
 [assembly: System.Reflection.AssemblyProductAttribute("CasseBrique")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CasseBrique")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

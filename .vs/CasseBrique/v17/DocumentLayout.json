@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|c:\\users\\danma\\documents\\gamecodeur\\cassebrique - copie\\pad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|solutionrelative:pad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|solutionrelative:sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\scenegameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|solutionrelative:scenegameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|solutionrelative:ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|solutionrelative:scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\scenegameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|solutionrelative:scenegameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\servicelocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|solutionrelative:servicelocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\brique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|solutionrelative:brique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\scenedewin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|solutionrelative:scenedewin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\scenemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|solutionrelative:scenemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|solutionrelative:scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D3817A-57AB-49E8-85BB-A59619E2D298}|CasseBrique.csproj|solutionrelative:door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sprite.cs",
+              "DocumentMoniker": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\Sprite.cs",
+              "RelativeDocumentMoniker": "Sprite.cs",
+              "ToolTip": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\Sprite.cs",
+              "RelativeToolTip": "Sprite.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAADwvw4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:10:24.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\Ball.cs",
+              "RelativeDocumentMoniker": "Ball.cs",
+              "ToolTip": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\Ball.cs",
+              "RelativeToolTip": "Ball.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:10:24.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SceneGameOver.cs",
+              "DocumentMoniker": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\SceneGameOver.cs",
+              "RelativeDocumentMoniker": "SceneGameOver.cs",
+              "ToolTip": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\SceneGameOver.cs",
+              "RelativeToolTip": "SceneGameOver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:10:24.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA0wDAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:10:24.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SceneMenu.cs",
+              "DocumentMoniker": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\SceneMenu.cs",
+              "RelativeDocumentMoniker": "SceneMenu.cs",
+              "ToolTip": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\SceneMenu.cs",
+              "RelativeToolTip": "SceneMenu.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:10:24.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SceneGameplay.cs",
+              "DocumentMoniker": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\SceneGameplay.cs",
+              "RelativeDocumentMoniker": "SceneGameplay.cs",
+              "ToolTip": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\SceneGameplay.cs",
+              "RelativeToolTip": "SceneGameplay.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:10:24.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\Scene.cs",
+              "RelativeDocumentMoniker": "Scene.cs",
+              "ToolTip": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\Scene.cs",
+              "RelativeToolTip": "Scene.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAASwBQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:10:24.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SceneManager.cs",
+              "DocumentMoniker": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\SceneManager.cs",
+              "RelativeDocumentMoniker": "SceneManager.cs",
+              "ToolTip": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\SceneManager.cs",
+              "RelativeToolTip": "SceneManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:10:24.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pad.cs",
+              "DocumentMoniker": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\Pad.cs",
+              "RelativeDocumentMoniker": "Pad.cs",
+              "ToolTip": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\Pad.cs",
+              "RelativeToolTip": "Pad.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwBsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:10:25.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceLocator.cs",
+              "DocumentMoniker": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\ServiceLocator.cs",
+              "RelativeDocumentMoniker": "ServiceLocator.cs",
+              "ToolTip": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\ServiceLocator.cs",
+              "RelativeToolTip": "ServiceLocator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:10:24.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAASwC4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:10:24.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SceneDeWin.cs",
+              "DocumentMoniker": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\SceneDeWin.cs",
+              "RelativeDocumentMoniker": "SceneDeWin.cs",
+              "ToolTip": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\SceneDeWin.cs",
+              "RelativeToolTip": "SceneDeWin.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:10:25.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Brique.cs",
+              "DocumentMoniker": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\Brique.cs",
+              "RelativeDocumentMoniker": "Brique.cs",
+              "ToolTip": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\Brique.cs",
+              "RelativeToolTip": "Brique.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:10:25.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\Door.cs",
+              "RelativeDocumentMoniker": "Door.cs",
+              "ToolTip": "C:\\Users\\danma\\Documents\\GameCodeur\\CasseBrique - Copie\\Door.cs",
+              "RelativeToolTip": "Door.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:10:25.81Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

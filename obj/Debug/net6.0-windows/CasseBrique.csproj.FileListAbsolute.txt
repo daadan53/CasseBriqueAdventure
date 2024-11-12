@@ -126,3 +126,4 @@ C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\obj\Debug\net6.0-windows
 C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\obj\Debug\net6.0-windows\CasseBrique.genruntimeconfig.cache
 C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\obj\Debug\net6.0-windows\ref\CasseBrique.dll
 C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\obj\Debug\net6.0-windows\CasseBri.28A43D5B.Up2Date
+C:\Users\danma\Documents\GameCodeur\CasseBrique - Copie\obj\Debug\net6.0-windows\CasseBrique.sourcelink.json
